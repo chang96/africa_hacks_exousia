@@ -4,8 +4,10 @@ Exousia is a web app that helps solar companies vet credit worthiness of custome
 
 Stacks: Bootstrap, google firebase.
 
-Indicina: provides tested algorithms to credit score customers
-mono: automatic deduction of money from customer account.
+APIs we are using
+
+- Indicina: provides tested algorithms to credit score customers
+- mono: automatic deduction of money from customer account.
 
 test loging details
 - text@exousia.web.app
