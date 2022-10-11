@@ -9,3 +9,8 @@ Using the site
 - Create link to product or services by clicking on create link and filling the form.
 
 - The create links can then be shared to users
+
+
+Users use dummy values
+- BVN(00000000000)
+- dummy image for "valid id"
