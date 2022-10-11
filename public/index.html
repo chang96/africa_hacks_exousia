@@ -88,6 +88,7 @@
                             <button type="button" onclick="login()" class="btn btn-primary">Login</button>
                         </form>
                     </div>
+                    
                     <br>
                 </div>
             </div>
@@ -125,6 +126,12 @@
   firebase.analytics();
   const auth = firebase.auth();
   const db = firebase.firestore();
+</script>
+<script>
+    document.getElementById("email").value = "text@exousia.web.app"
+    document.getElementById("password").value = "123456789"
+
+    alert("Test email and password has been automatically filled.")
 </script>
 <script src="plugins/bower_components/jquery/dist/jquery.min.js"></script>
 <!-- Bootstrap Core JavaScript -->
