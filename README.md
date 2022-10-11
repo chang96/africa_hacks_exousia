@@ -1,8 +1,11 @@
 # africa_hacks_exousia
 
-Exousia is a web app that helps solar companies vet credit worthiness of customers needing payment in installment and an automated way to get their money back from customers.
+Exousia is a web app that helps solar companies vet credit worthiness of customers needing payment in installment and an automated way to get their money back from customers. 
 
 Stacks: Bootstrap, google firebase.
+
+Indicina: provides tested algorithms to credit score customers
+mono: automatic deduction of money from customer account.
 
 test loging details
 - text@exousia.web.app
